@@ -1,0 +1,9 @@
+{
+  "name": "Tukatuu ThirdEye Vid",
+  "description": "An interactive video analysis tool where you can chat with Tukatuu AI about your video content in real-time.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone",
+    "camera"
+  ]
+}
